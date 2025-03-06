@@ -1,6 +1,4 @@
-# Python-Automation-Tools
-A repo for time saving scripts for myself
-
+# University Module Creation Script
 
 
 moduleFileStructureCreation.py:
